@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bottles">
+        <item>0.5L Pepsi Max 1,80€</item>
+        <item>1.5L Pepsi Max 2,20€</item>
+        <item>0.5L Coca-Cola Zero 2€</item>
+        <item>1.5L Coca-Cola Zero 2,50€</item>
+        <item>0.5L Fanta Zero 1,95€</item>
+    </string-array>
+</resources>
